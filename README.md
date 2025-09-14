@@ -7,10 +7,9 @@ The application is designed with scalability and reliability in mind, using a se
 
 ## ✨ Features (Planned)
 
-Secure Sign Up & Login – Role-based authentication for students and tutors.
-Role-specific Dashboards – Students manage requests & lessons; tutors manage availability & teaching.
-Lesson Requests & Scheduling – Students request lessons, tutors accept or reject.
-Payments Integration – Seamless and secure in-app payments.
-Ratings & Reviews – Students provide feedback after lessons.
-Real-time Video Lessons – Built-in video sessions between students and tutors.
-
+- Secure Sign Up & Login – Role-based authentication for students and tutors.
+- Role-specific Dashboards – Students manage requests & lessons; tutors manage availability & teaching.
+- Lesson Requests & Scheduling – Students request lessons, tutors accept or reject.
+- Payments Integration – Seamless and secure in-app payments.
+- Ratings & Reviews – Students provide feedback after lessons.
+- Real-time Video Lessons – Built-in video sessions between students and tutors.
